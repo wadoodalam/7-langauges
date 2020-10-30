@@ -1,0 +1,5 @@
+this is line 1.
+hello
+world
+this is ruby
+day 2 practice
